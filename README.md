@@ -42,7 +42,7 @@ Secure your asset and maintain control over your finances with CC Wallet
     <a href="https://github.com/CoreCustodian/ccwallet-token/issues/new/choose">Request Feature</a>
 </p>
 
-👉 🌐 Introduction
+## 👉 🌐 Introduction
 
 Core Custodian (CC Wallet), offers a secure and user-friendly self-custody wallet designed to simplify cryptocurrency management. Built on the robust Core blockchain, our platform integrates advanced DeFi functionalities, prioritizing community, security, and innovation. Experience the premier solution for managing your digital assets safely and efficiently!!!
 
@@ -50,7 +50,7 @@ Core Custodian provides a secure, multi-blockchain wallet with advanced encrypti
 
 Core Custodian is coming up with DEX aggregator that employs algorithms and smart order routing techniques powered by artificial intelligence (AI).
 
-👉 🔶 Why Core Custodian - CC Wallet
+## 👉 🔶 Why Core Custodian - CC Wallet
 
 - Purchase crypto directly within CC Wallet
 - Swap and sell crypto effortlessly
@@ -61,7 +61,7 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 - Manage, swap, send, receive, stake, and lock crypto assets
 - Build on Core Blockchain
 
-👉 ✨ Benefits
+## 👉 ✨ Benefits
 
 - Web3 Domain
 - Fraud prevention
@@ -73,7 +73,7 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 
 
 
-👉 📦 More
+## 👉 📦 More
 
 - Real-time Data
 - Customizable Charts
@@ -84,7 +84,7 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 
 - [Solidity](https://soliditylang.org/)
 
-👉 🦸 Support
+##👉 🦸 Support
 
 <p align="center">
 <a href="https://x.com/core_custodian">
@@ -95,7 +95,7 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 </a>
 </p>
 
-👉 🏢 Office
+## 👉 🏢 Office
 
 <p align="center">
 <img src="https://i.ibb.co/PtkbFYt/CC.jpg" alt="ccdn" width="700" border="0">
