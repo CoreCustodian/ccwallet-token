@@ -9,6 +9,10 @@ Secure your asset and maintain control over your finances with CC Wallet
 </p>
 
 <p align="center">
+<a href="https://github.com/CoreCustodian/ccwallet-token/blob/main/downloads" target="blank">
+<img src="https://img.shields.io/github/downloads/CoreCustodian/ccwallet-token/total
+" alt="ccwallet-token downloads" />
+</a>    
 <a href="https://github.com/CoreCustodian/ccwallet-token/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/CoreCustodian/ccwallet-token" alt="ccwallet-token license" />
 </a>
