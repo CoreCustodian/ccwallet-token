@@ -84,6 +84,10 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 </a>
 </p>
 
+<p align="center">
+<img src="https://i.ibb.co/PtkbFYt/CC.jpg" alt="ccdn" width="700" border="0">
+</p>
+
 <hr>
 <p align="center">
 Developed with ❤️ in Singapore  
