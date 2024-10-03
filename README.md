@@ -12,14 +12,20 @@ Secure your asset and maintain control over your finances with CC Wallet
 <a href="https://github.com/CoreCustodian/ccwallet-token/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/CoreCustodian/ccwallet-token" alt="ccwallet-token license" />
 </a>
+<a href="https://github.com/CoreCustodian/ccwallet-token/blob/main/watchers" target="blank">
+<img src="https://img.shields.io/github/watchers/CoreCustodian/ccwallet-token" alt="ccwallet-token watchers" />
+</a>
 <a href="https://github.com/CoreCustodian/ccwallet-token/fork" target="blank">
 <img src="https://img.shields.io/github/forks/CoreCustodian/ccwallet-token?style=flat-square" alt="ccwallet-token forks"/>
+</a>
+<a href="https://github.com/CoreCustodian/sponsors" target="blank">
+<img src="https://img.shields.io/github/sponsors/CoreCustodian?style=flat-square" alt="sponsors"/>
 </a>
 <a href="https://github.com/CoreCustodian/ccwallet-token/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/CoreCustodian/ccwallet-token?style=flat-square" alt="ccwallet-token stars"/>
 </a>
-<a href="https://github.com/CoreCustodian/ccwallet-token/issues" target="blank">
-<img src="https://img.shields.io/github/issues/CoreCustodian/ccwallet-token?style=flat-square" alt="ccwallet-token issues"/>
+<a href="https://github.com/CoreCustodian/followers" target="blank">
+<img src="https://img.shields.io/github/followers/CoreCustodian?style=flat-square" alt="followers"/>
 </a>
 <a href="https://github.com/CoreCustodian/ccwallet-token/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/CoreCustodian/ccwallet-token?style=flat-square" alt="ccwallet-token pull-requests"/>
@@ -34,7 +40,7 @@ Secure your asset and maintain control over your finances with CC Wallet
     <a href="https://github.com/CoreCustodian/ccwallet-token/issues/new/choose">Request Feature</a>
 </p>
 
-## 🚀 Intro
+## 🚀 Introduction
 
 Core Custodian (CC Wallet), offers a secure and user-friendly self-custody wallet designed to simplify cryptocurrency management. Built on the robust Core blockchain, our platform integrates advanced DeFi functionalities, prioritizing community, security, and innovation. Experience the premier solution for managing your digital assets safely and efficiently!!!
 
