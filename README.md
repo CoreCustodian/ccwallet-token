@@ -84,7 +84,7 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 
 - [Solidity](https://soliditylang.org/)
 
-##👉 🦸 Support
+## 👉 🦸 Support
 
 <p align="center">
 <a href="https://x.com/core_custodian">
