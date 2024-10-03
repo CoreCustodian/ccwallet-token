@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/R0y8NmM/100.png" alt="ccdn" width="100" border="0">
+<img src="https://i.ibb.co/K6KV9NF/Seamless-Secure-Trading.png" alt="ccdn" width="2048" border="0">
 <h1 align="center">
 Core Custodian - CC Wallet - CCDN Token
 </h1>
@@ -86,11 +86,16 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 
 👉 🦸 Support
 
-<p align="left">
+<p align="center">
 <a href="https://x.com/core_custodian">
-<img src="https://img.shields.io/twitter/follow/core_custodian?style=social" alt="core_custodian"/>
+<img src="https://i.ibb.co/b7c32xC/xfollow.png?style=social" alt="core_custodian"/>
+</a>
+<a href="https://t.me/Core_Custodian">
+<img src="https://i.ibb.co/xsjx5Nc/ast.png.png?style=social" alt="core_custodian"/>
 </a>
 </p>
+
+👉 🏢 Office
 
 <p align="center">
 <img src="https://i.ibb.co/PtkbFYt/CC.jpg" alt="ccdn" width="700" border="0">
