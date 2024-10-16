@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/K6KV9NF/Seamless-Secure-Trading.png" alt="ccdn" width="2048" border="0">
+<img src="https://i.ibb.co/SQjHjFf/Seamless-Secure-Trading.png" alt="ccdn" width="2048" border="0">
 <h1 align="center">
 Core Custodian - CC Wallet - $CCDN
 </h1>
