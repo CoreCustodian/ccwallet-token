@@ -98,7 +98,7 @@ Core Custodian is coming up with DEX aggregator that employs algorithms and smar
 ## 👉 🏢 Office
 
 <p align="center">
-<img src="https://i.ibb.co/PtkbFYt/CC.jpg" alt="ccdn" width="700" border="0">
+<img src="https://i.ibb.co/rkW3XmD/cc.png" alt="ccdn" width="700" border="0">
 </p>
 
 <hr>
